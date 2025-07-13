@@ -1,5 +1,5 @@
 {
-  "fname": "invoice_1.xlsx",
+  "fname": "invoice_1.pdf",
   "0_expected": {
     "customer_name": "Sharp Consulting",
     "customer_tax_id": null,
