@@ -78,7 +78,7 @@
     },
     "confidence": {
         "customer_name": {
-            "confidence": 0.9999879600708306,
+            "confidence": 0.9999899269593634,
             "value": "Sharp Consulting"
         },
         "customer_tax_id": {
@@ -87,11 +87,11 @@
         },
         "customer_address": {
             "street": {
-                "confidence": 0.9999947945795249,
+                "confidence": 0.9999950727285191,
                 "value": "73 Regal Way"
             },
             "city": {
-                "confidence": 0.999997377405644,
+                "confidence": 0.99999707938449,
                 "value": "Leeds"
             },
             "state": {
@@ -99,11 +99,11 @@
                 "value": null
             },
             "postal_code": {
-                "confidence": 0.9999970674616199,
+                "confidence": 0.9999955177542353,
                 "value": "LS1 5AB"
             },
             "country": {
-                "confidence": 0.9995635269820741,
+                "confidence": 0.9996167698314475,
                 "value": "UK"
             }
         },
@@ -112,11 +112,11 @@
             "value": null
         },
         "purchase_order": {
-            "confidence": 0.9999996423722639,
+            "confidence": 0.9999995231630637,
             "value": "15931"
         },
         "invoice_id": {
-            "confidence": 0.9999984105459632,
+            "confidence": 0.9999993642179021,
             "value": "3847193"
         },
         "invoice_date": {
@@ -124,11 +124,11 @@
             "value": null
         },
         "due_date": {
-            "confidence": 0.9998533548734745,
+            "confidence": 0.9998336812837281,
             "value": "2024-05-24"
         },
         "vendor_name": {
-            "confidence": 0.9939029007128232,
+            "confidence": 0.9887794376175141,
             "value": "NEXGEN"
         },
         "vendor_address": {
@@ -161,7 +161,7 @@
                 "value": null
             },
             "amount": {
-                "confidence": 0.999991417050167,
+                "confidence": 0.9999957084952419,
                 "value": 293.52
             }
         },
@@ -172,15 +172,15 @@
         "items": [
             {
                 "product_code": {
-                    "confidence": 0.9999992847448808,
+                    "confidence": 0.9999994039539526,
                     "value": "MA197"
                 },
                 "description": {
-                    "confidence": 0.9999371243545162,
+                    "confidence": 0.9999737596633665,
                     "value": "STRETCHWRAP ROLL"
                 },
                 "quantity": {
-                    "confidence": 0.9999984502816008,
+                    "confidence": 0.9999989271175755,
                     "value": 5
                 },
                 "tax": {
@@ -193,7 +193,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9999937614569431,
+                        "confidence": 0.9999955892938772,
                         "value": 16.62
                     }
                 },
@@ -203,22 +203,22 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9974634307480731,
+                        "confidence": 0.9982540548232423,
                         "value": 83.1
                     }
                 }
             },
             {
                 "product_code": {
-                    "confidence": 0.9999995628995155,
+                    "confidence": 0.9999996821086705,
                     "value": "ST4086"
                 },
                 "description": {
-                    "confidence": 0.9999963522326751,
+                    "confidence": 0.9999962330241211,
                     "value": "BALLPOINT PEN MED."
                 },
                 "quantity": {
-                    "confidence": 0.9999988079085106,
+                    "confidence": 0.9999995231630436,
                     "value": 10
                 },
                 "tax": {
@@ -231,7 +231,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9584706175687432,
+                        "confidence": 0.9946132569176354,
                         "value": 2.49
                     }
                 },
@@ -241,22 +241,22 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9999446135474562,
+                        "confidence": 0.9999203411365057,
                         "value": 24.9
                     }
                 }
             },
             {
                 "product_code": {
-                    "confidence": 0.9999997377397364,
+                    "confidence": 0.9999997377397184,
                     "value": "JF9912413BF"
                 },
                 "description": {
-                    "confidence": 0.9999989801013067,
+                    "confidence": 0.9999985959874601,
                     "value": "BUBBLE FILM ROLL CL."
                 },
                 "quantity": {
-                    "confidence": 0.9999997615814784,
+                    "confidence": 1.0,
                     "value": 12
                 },
                 "tax": {
@@ -269,7 +269,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9999961455957616,
+                        "confidence": 0.9999971787293132,
                         "value": 15.46
                     }
                 },
@@ -279,7 +279,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9999981721304873,
+                        "confidence": 0.9999991257999521,
                         "value": 185.52
                     }
                 }
@@ -287,7 +287,7 @@
         ],
         "customer_signature": {
             "signatory": {
-                "confidence": 0.9995750802839647,
+                "confidence": 0.9996184374834995,
                 "value": "SH"
             },
             "date": {
@@ -299,7 +299,7 @@
                 "value": null
             }
         },
-        "_overall": 0.9980252436626936
+        "_overall": 0.9992525357068245
     },
     "accuracy": {
         "accuracy": {
@@ -386,5 +386,5 @@
     },
     "prompt_tokens": 1816,
     "completion_tokens": 315,
-    "execution_time": 8.915598330000648
+    "execution_time": 16.039993199985474
 }
