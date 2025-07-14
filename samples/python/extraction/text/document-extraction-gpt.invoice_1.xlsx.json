@@ -25,7 +25,7 @@
             "currency_code": null,
             "amount": 293.52
         },
-        "payment_term": "Payable on or before 2024-05-24",
+        "payment_term": null,
         "items": [
             {
                 "product_code": "MA197",
@@ -73,12 +73,12 @@
         "customer_signature": {
             "signatory": "SH",
             "date": null,
-            "has_written_signature": true
+            "has_written_signature": null
         }
     },
     "confidence": {
         "customer_name": {
-            "confidence": 0.9999934886141991,
+            "confidence": 0.9999879600708306,
             "value": "Sharp Consulting"
         },
         "customer_tax_id": {
@@ -87,11 +87,11 @@
         },
         "customer_address": {
             "street": {
-                "confidence": 0.999995515065524,
+                "confidence": 0.9999947945795249,
                 "value": "73 Regal Way"
             },
             "city": {
-                "confidence": 0.9999972435123241,
+                "confidence": 0.999997377405644,
                 "value": "Leeds"
             },
             "state": {
@@ -99,11 +99,11 @@
                 "value": null
             },
             "postal_code": {
-                "confidence": 0.9999972077513883,
+                "confidence": 0.9999970674616199,
                 "value": "LS1 5AB"
             },
             "country": {
-                "confidence": 0.9995664446722851,
+                "confidence": 0.9995635269820741,
                 "value": "UK"
             }
         },
@@ -112,11 +112,11 @@
             "value": null
         },
         "purchase_order": {
-            "confidence": 0.9999996871837189,
+            "confidence": 0.9999996423722639,
             "value": "15931"
         },
         "invoice_id": {
-            "confidence": 0.9999994487764853,
+            "confidence": 0.9999984105459632,
             "value": "3847193"
         },
         "invoice_date": {
@@ -124,11 +124,11 @@
             "value": null
         },
         "due_date": {
-            "confidence": 0.9998800500035762,
+            "confidence": 0.9998533548734745,
             "value": "2024-05-24"
         },
         "vendor_name": {
-            "confidence": 0.9966865592878569,
+            "confidence": 0.9939029007128232,
             "value": "NEXGEN"
         },
         "vendor_address": {
@@ -161,26 +161,26 @@
                 "value": null
             },
             "amount": {
-                "confidence": 0.9999941640975123,
+                "confidence": 0.999991417050167,
                 "value": 293.52
             }
         },
         "payment_term": {
-            "confidence": 0.9434231242582385,
-            "value": "Payable on or before 2024-05-24"
+            "confidence": 0.0,
+            "value": null
         },
         "items": [
             {
                 "product_code": {
-                    "confidence": 0.9999993295728598,
+                    "confidence": 0.9999992847448808,
                     "value": "MA197"
                 },
                 "description": {
-                    "confidence": 0.9997555931555416,
+                    "confidence": 0.9999371243545162,
                     "value": "STRETCHWRAP ROLL"
                 },
                 "quantity": {
-                    "confidence": 0.9999974223173222,
+                    "confidence": 0.9999984502816008,
                     "value": 5
                 },
                 "tax": {
@@ -193,7 +193,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9999920035151953,
+                        "confidence": 0.9999937614569431,
                         "value": 16.62
                     }
                 },
@@ -203,22 +203,22 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9982546756052386,
+                        "confidence": 0.9974634307480731,
                         "value": 83.1
                     }
                 }
             },
             {
                 "product_code": {
-                    "confidence": 0.9999994487765086,
+                    "confidence": 0.9999995628995155,
                     "value": "ST4086"
                 },
                 "description": {
-                    "confidence": 0.9999563009383418,
+                    "confidence": 0.9999963522326751,
                     "value": "BALLPOINT PEN MED."
                 },
                 "quantity": {
-                    "confidence": 0.9999998063873687,
+                    "confidence": 0.9999988079085106,
                     "value": 10
                 },
                 "tax": {
@@ -231,7 +231,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9630221992233791,
+                        "confidence": 0.9584706175687432,
                         "value": 2.49
                     }
                 },
@@ -241,22 +241,22 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9998963427166542,
+                        "confidence": 0.9999446135474562,
                         "value": 24.9
                     }
                 }
             },
             {
                 "product_code": {
-                    "confidence": 0.99999971694731,
+                    "confidence": 0.9999997377397364,
                     "value": "JF9912413BF"
                 },
                 "description": {
-                    "confidence": 0.9999954653767748,
+                    "confidence": 0.9999989801013067,
                     "value": "BUBBLE FILM ROLL CL."
                 },
                 "quantity": {
-                    "confidence": 0.9999994487765019,
+                    "confidence": 0.9999997615814784,
                     "value": 12
                 },
                 "tax": {
@@ -269,7 +269,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.999998147409216,
+                        "confidence": 0.9999961455957616,
                         "value": 15.46
                     }
                 },
@@ -279,7 +279,7 @@
                         "value": null
                     },
                     "amount": {
-                        "confidence": 0.9999929968713054,
+                        "confidence": 0.9999981721304873,
                         "value": 185.52
                     }
                 }
@@ -287,7 +287,7 @@
         ],
         "customer_signature": {
             "signatory": {
-                "confidence": 0.9995378596197773,
+                "confidence": 0.9995750802839647,
                 "value": "SH"
             },
             "date": {
@@ -296,10 +296,10 @@
             },
             "has_written_signature": {
                 "confidence": 0.0,
-                "value": true
+                "value": null
             }
         },
-        "_overall": 0.9962936922382372
+        "_overall": 0.9980252436626936
     },
     "accuracy": {
         "accuracy": {
@@ -331,7 +331,7 @@
                 "currency_code": 0,
                 "amount": 1
             },
-            "payment_term": 0,
+            "payment_term": 1,
             "items": [
                 {
                     "product_code": 1,
@@ -379,12 +379,12 @@
             "customer_signature": {
                 "signatory": 0,
                 "date": 1,
-                "has_written_signature": 1
+                "has_written_signature": 0
             }
         },
         "overall": 0.7567567567567568
     },
     "prompt_tokens": 1816,
-    "completion_tokens": 326,
-    "execution_time": 15.051788499986287
+    "completion_tokens": 315,
+    "execution_time": 8.915598330000648
 }
