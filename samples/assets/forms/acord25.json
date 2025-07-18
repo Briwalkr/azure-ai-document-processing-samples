@@ -1,0 +1,44 @@
+{
+  "fname": "ACORD_25_Completed.pdf",
+  "0_expected": {
+    "certificate_date": "05/05/2025",
+    "producer_name": "Contoso Insurance",
+    "producer_address": {
+      "street": "1122 Insurance Way",
+      "city": "Nowheresville",
+      "state": "MA",
+      "postal_code": "12345",
+      "country": "USA"
+    },
+    "producer_contact_name": "Brian Walker",
+    "producer_contact_phone": "804 241-0019",
+    "producer_fax": null,
+    "producer_contact_email": "brwalker@microsoft.com",
+    "insured_name": "Adventure Works Construction Co.",
+    "insured_address": {
+      "street": "123 Icanfixit Dr",
+      "city": "Mechanicsville",
+      "state": "VA",
+      "postal_code": "23111",
+      "country": "USA"
+    },
+    "insurer_affording_coverage_a": "ABC Insurance",
+    "insurer_affording_coverage_a_naic": "1234",
+    "insurer_affording_coverage_b": "Progressive Casualty Insurance Company",
+    "insurer_affording_coverage_b_naic": "24260",
+    "insurer_affording_coverage_c": null,
+    "insurer_affording_coverage_c_naic": null,
+    "insurer_affording_coverage_d": null,
+    "insurer_affording_coverage_d_naic": null,
+    "insurer_affording_coverage_e": null,
+    "insurer_affording_coverage_e_naic": null,
+    "insurer_affording_coverage_f": null,
+    "insurer_affording_coverage_f_naic": null,
+    "certificate_number": "2025050500123",
+    "revision_number": null,
+     "customer_signature": {
+      "signatory": "Jane Doe",
+      "has_written_signature": true
+    }
+  }
+}
